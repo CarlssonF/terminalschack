@@ -1,2 +1,4 @@
-# terminalschack
-Ett schackspel du spelar i terminalen
+# Terminalschack
+Ett enkelt schakspel jag kodade när jag började lära mig Python!
+
+*I stort sett fungerande...*
